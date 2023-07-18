@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -rdynamic CMakeFiles/test.dir/main.cpp.o -o ../../bin/test   -L/home/jixu/Mycode/ShiLei/ConnectionPool/lib  -Wl,-rpath,/home/jixu/Mycode/ShiLei/ConnectionPool/lib ../../lib/libConnectionPool.so -lmysqlclient -lpthread -llua5.3 

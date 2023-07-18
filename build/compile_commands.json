@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jixu/Mycode/ShiLei/ConnectionPool/build/src",
+  "command": "/usr/bin/g++ -DConnectionPool_EXPORTS -I/home/jixu/Mycode/ShiLei/ConnectionPool/include -g -g -fPIC -o CMakeFiles/ConnectionPool.dir/Connection.cpp.o -c /home/jixu/Mycode/ShiLei/ConnectionPool/src/Connection.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/ConnectionPool/src/Connection.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/ConnectionPool/build/src",
+  "command": "/usr/bin/g++ -DConnectionPool_EXPORTS -I/home/jixu/Mycode/ShiLei/ConnectionPool/include -g -g -fPIC -o CMakeFiles/ConnectionPool.dir/ConnectionPool.cpp.o -c /home/jixu/Mycode/ShiLei/ConnectionPool/src/ConnectionPool.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/ConnectionPool/src/ConnectionPool.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/ConnectionPool/build/src",
+  "command": "/usr/bin/g++ -DConnectionPool_EXPORTS -I/home/jixu/Mycode/ShiLei/ConnectionPool/include -g -g -fPIC -o CMakeFiles/ConnectionPool.dir/ConnectionPool_lua.cpp.o -c /home/jixu/Mycode/ShiLei/ConnectionPool/src/ConnectionPool_lua.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/ConnectionPool/src/ConnectionPool_lua.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/ConnectionPool/build/test",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/ConnectionPool/include -g -g -o CMakeFiles/test.dir/main.cpp.o -c /home/jixu/Mycode/ShiLei/ConnectionPool/test/main.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/ConnectionPool/test/main.cpp"
+}
+]
